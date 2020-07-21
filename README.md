@@ -9,6 +9,7 @@ References:
 - [Domain-Driven Design and the Hexagonal Architecture](https://vaadin.com/learn/tutorials/ddd/ddd_and_hexagonal)
 - [Spring Boot Application Events Explained](https://reflectoring.io/spring-boot-application-events-explained/)
 - [Spring Events - Baeldung](https://www.baeldung.com/spring-events)
+- [Publishing Domain Events with Spring Integration EventBus - DZone](https://dzone.com/articles/publishing-domain-events-with-spring-integration-e)
 
 
 Books:
