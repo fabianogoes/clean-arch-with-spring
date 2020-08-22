@@ -4,7 +4,7 @@ This repository is about my studying of the Clean Architecture and implementatio
 
 **My Annotations:**
 
-- [Clean Architecture](documentation/README.md)
+- [Clean Architecture](documentation/clean-architecture/README.md)
 
 
 ### References
@@ -17,6 +17,7 @@ This repository is about my studying of the Clean Architecture and implementatio
 - [Spring Events - Baeldung](https://www.baeldung.com/spring-events)
 - [Publishing Domain Events with Spring Integration EventBus - DZone](https://dzone.com/articles/publishing-domain-events-with-spring-integration-e)
 - [Construindo aplicações escaláveis no Mercado Livre com SOLID & Clean Architecture - Youtube](https://www.youtube.com/watch?v=UlrMt9lvObI)
+- [DesignStaminaHypothesis](https://martinfowler.com/bliki/DesignStaminaHypothesis.html)
 
 
 ### Books
