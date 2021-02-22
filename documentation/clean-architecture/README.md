@@ -16,8 +16,7 @@ Uma Arquitetura de um sistema bem estruturado deve dizer a intenção do Sistema
 
 **Exemplos do Uncle Bob:**
 
-> Quando olhamos para a arquitetura/estrutura de uma biblioteca, sabemos para qual propósito ela foi criada porque podemos porque podemos ver as estantes de livros, mesas e cadeiras, tudo está dizendo o propósito para que foi criada, ao olharmos para a arquitetura não nos preocupamos com o que foi usado para chegar aquele ponto.
-
+> Quando olhamos para a arquitetura/estrutura de uma biblioteca, sabemos para qual propósito ela foi criada porque podemos ver as estantes de livros, mesas e cadeiras, tudo está dizendo o propósito para que foi criada, ao olharmos para a arquitetura não nos preocupamos com o que foi usado para chegar aquele ponto.
 > O mesmo ocorre para a arquitetura de uma igreja, a arquitetura/estrutura praticamente grita para qual próposito tudo aquilo foi criado.
 
 Isso deve acontecer com a arquitera de um sistema, ao olharmos devemos ver o propósito para o qual foi criado e não as tecnologias.   
